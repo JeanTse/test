@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hcy.asia/magazine20/</loc>
+    
+    <lastmod>2022-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/news/</loc>
+    
+    <lastmod>2022-09-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy.asia/acevsace7/</loc>
     
     <lastmod>2022-09-29</lastmod>
@@ -57,15 +75,6 @@
   
   <url>
     <loc>https://hcy.asia/liveevent2022/</loc>
-    
-    <lastmod>2022-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/news/</loc>
     
     <lastmod>2022-09-26</lastmod>
     
@@ -401,15 +410,6 @@
     <loc>https://hcy.asia/acevsace5/</loc>
     
     <lastmod>2022-06-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/magazine20/</loc>
-    
-    <lastmod>2022-06-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
