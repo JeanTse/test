@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hcy.asia/allmusicdata/</loc>
+    <loc>https://hcy.asia/about/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/hcy-8g/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/hcy-bio/</loc>
     
     <lastmod>2022-10-12</lastmod>
     
@@ -13,7 +31,16 @@
   <url>
     <loc>https://hcy.asia/marsconcert2022-dy/</loc>
     
-    <lastmod>2022-10-11</lastmod>
+    <lastmod>2022-10-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/allmusicdata/</loc>
+    
+    <lastmod>2022-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -131,15 +158,6 @@
     <loc>https://hcy.asia/01-02-shimmer/</loc>
     
     <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/about/</loc>
-    
-    <lastmod>2022-09-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -623,15 +641,6 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/hcy-bio/</loc>
-    
-    <lastmod>2021-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/cv-gameforpeacepv/</loc>
     
     <lastmod>2021-12-28</lastmod>
@@ -849,15 +858,6 @@
   
   <url>
     <loc>https://hcy.asia/ace4-jigong/</loc>
-    
-    <lastmod>2021-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/hcy-8g/</loc>
     
     <lastmod>2021-12-16</lastmod>
     
