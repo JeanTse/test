@@ -1541,13 +1541,6 @@
 
   
   <url>
-    <loc>https://hcy.asia/tags/album01/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/tags/compose/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -1562,7 +1555,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/lyrictranslation/</loc>
+    <loc>https://hcy.asia/tags/album01/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1570,6 +1563,13 @@
   
   <url>
     <loc>https://hcy.asia/tags/singer2018/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/lyrictranslation/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1639,21 +1639,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/thenext/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/tags/DEMO/</loc>
-    <lastmod>2022-10-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/tags/arrange/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1675,6 +1661,20 @@
   
   <url>
     <loc>https://hcy.asia/tags/album04/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/arrange/</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/thenext/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1865,14 +1865,14 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/live/</loc>
+    <loc>https://hcy.asia/categories/commercial/cm/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/commercial/cm/</loc>
+    <loc>https://hcy.asia/categories/live/</loc>
     <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
