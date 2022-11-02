@@ -3,11 +3,11 @@
   <title>華晨宇・非公式資料サイト</title>
   
   
-  <link href="https://hcy.asia/atom.xml" rel="self"/>
+  <link href="https://test.jeantse.net/atom.xml" rel="self"/>
   
-  <link href="https://hcy.asia/"/>
+  <link href="https://test.jeantse.net/"/>
   <updated>2022-10-12T01:34:35.000Z</updated>
-  <id>https://hcy.asia/</id>
+  <id>https://test.jeantse.net/</id>
   
   <author>
     <name>HUAmazing</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>全音楽作品のデータ</title>
-    <link href="https://hcy.asia/allmusicdata/"/>
-    <id>https://hcy.asia/allmusicdata/</id>
+    <link href="https://test.jeantse.net/allmusicdata/"/>
+    <id>https://test.jeantse.net/allmusicdata/</id>
     <published>2120-09-18T16:00:00.000Z</published>
     <updated>2022-10-12T01:34:35.000Z</updated>
     
@@ -30,25 +30,25 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="アルバム1" scheme="https://hcy.asia/tags/album01/"/>
+    <category term="アルバム1" scheme="https://test.jeantse.net/tags/album01/"/>
     
-    <category term="アルバム2" scheme="https://hcy.asia/tags/album02/"/>
+    <category term="アルバム2" scheme="https://test.jeantse.net/tags/album02/"/>
     
-    <category term="アルバム3" scheme="https://hcy.asia/tags/album03/"/>
+    <category term="アルバム3" scheme="https://test.jeantse.net/tags/album03/"/>
     
-    <category term="アルバム4" scheme="https://hcy.asia/tags/album04/"/>
+    <category term="アルバム4" scheme="https://test.jeantse.net/tags/album04/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>華晨宇</title>
-    <link href="https://hcy.asia/hcy-bio/"/>
-    <id>https://hcy.asia/hcy-bio/</id>
+    <link href="https://test.jeantse.net/hcy-bio/"/>
+    <id>https://test.jeantse.net/hcy-bio/</id>
     <published>2120-09-17T16:00:00.000Z</published>
     <updated>2022-10-12T01:45:19.000Z</updated>
     
@@ -60,15 +60,15 @@
     
     
     
-    <category term="①プロファイル" scheme="https://hcy.asia/categories/hcy/"/>
+    <category term="①プロファイル" scheme="https://test.jeantse.net/categories/hcy/"/>
     
     
   </entry>
   
   <entry>
     <title>マガジン（2022年10月更新）</title>
-    <link href="https://hcy.asia/magazine20/"/>
-    <id>https://hcy.asia/magazine20/</id>
+    <link href="https://test.jeantse.net/magazine20/"/>
+    <id>https://test.jeantse.net/magazine20/</id>
     <published>2022-10-10T16:00:00.000Z</published>
     <updated>2022-10-11T08:59:59.000Z</updated>
     
@@ -79,21 +79,21 @@
     
     
     
-    <category term="⑥COMMERCIAL" scheme="https://hcy.asia/categories/commercial/"/>
+    <category term="⑥COMMERCIAL" scheme="https://test.jeantse.net/categories/commercial/"/>
     
-    <category term="₁マガジン" scheme="https://hcy.asia/categories/commercial/magazine/"/>
+    <category term="₁マガジン" scheme="https://test.jeantse.net/categories/commercial/magazine/"/>
     
     
-    <category term="NEWS" scheme="https://hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://test.jeantse.net/tags/NEWS/"/>
     
-    <category term="マガジン" scheme="https://hcy.asia/tags/magazine/"/>
+    <category term="マガジン" scheme="https://test.jeantse.net/tags/magazine/"/>
     
   </entry>
   
   <entry>
     <title>「火星楽章」 - 9周年オンラインコンサート</title>
-    <link href="https://hcy.asia/marsconcert2022-dy/"/>
-    <id>https://hcy.asia/marsconcert2022-dy/</id>
+    <link href="https://test.jeantse.net/marsconcert2022-dy/"/>
+    <id>https://test.jeantse.net/marsconcert2022-dy/</id>
     <published>2022-09-25T11:27:00.000Z</published>
     <updated>2022-10-23T09:10:48.874Z</updated>
     
@@ -108,23 +108,23 @@
     
     
     
-    <category term="③ライブ・公演" scheme="https://hcy.asia/categories/live/"/>
+    <category term="③ライブ・公演" scheme="https://test.jeantse.net/categories/live/"/>
     
-    <category term="₁パーソナルコンサート" scheme="https://hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁パーソナルコンサート" scheme="https://test.jeantse.net/categories/live/marsconcert/"/>
     
     
-    <category term="交響曲" scheme="https://hcy.asia/tags/symphony/"/>
+    <category term="交響曲" scheme="https://test.jeantse.net/tags/symphony/"/>
     
-    <category term="アカペラ" scheme="https://hcy.asia/tags/acapella/"/>
+    <category term="アカペラ" scheme="https://test.jeantse.net/tags/acapella/"/>
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://test.jeantse.net/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>2022 イベント情報（9月更新）</title>
-    <link href="https://hcy.asia/liveevent2022/"/>
-    <id>https://hcy.asia/liveevent2022/</id>
+    <link href="https://test.jeantse.net/liveevent2022/"/>
+    <id>https://test.jeantse.net/liveevent2022/</id>
     <published>2022-08-20T16:00:00.000Z</published>
     <updated>2022-10-04T07:16:59.317Z</updated>
     
@@ -135,19 +135,19 @@
     
     
     
-    <category term="③ライブ・公演" scheme="https://hcy.asia/categories/live/"/>
+    <category term="③ライブ・公演" scheme="https://test.jeantse.net/categories/live/"/>
     
-    <category term="₂イベント" scheme="https://hcy.asia/categories/live/event/"/>
+    <category term="₂イベント" scheme="https://test.jeantse.net/categories/live/event/"/>
     
     
-    <category term="NEWS" scheme="https://hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://test.jeantse.net/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>華晨宇の公式スケジュール（更新停止）</title>
-    <link href="https://hcy.asia/hcy-monthly-schedule/"/>
-    <id>https://hcy.asia/hcy-monthly-schedule/</id>
+    <link href="https://test.jeantse.net/hcy-monthly-schedule/"/>
+    <id>https://test.jeantse.net/hcy-monthly-schedule/</id>
     <published>2022-06-30T16:00:00.000Z</published>
     <updated>2022-08-31T02:07:05.000Z</updated>
     
@@ -161,14 +161,14 @@
     
     
     
-    <category term="NEWS" scheme="https://hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://test.jeantse.net/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>ブランドキャラクターとCM出演（2022年5月更新）</title>
-    <link href="https://hcy.asia/cm/"/>
-    <id>https://hcy.asia/cm/</id>
+    <link href="https://test.jeantse.net/cm/"/>
+    <id>https://test.jeantse.net/cm/</id>
     <published>2022-05-27T16:00:00.000Z</published>
     <updated>2022-07-20T05:34:36.000Z</updated>
     
@@ -179,21 +179,21 @@
     
     
     
-    <category term="⑥COMMERCIAL" scheme="https://hcy.asia/categories/commercial/"/>
+    <category term="⑥COMMERCIAL" scheme="https://test.jeantse.net/categories/commercial/"/>
     
-    <category term="₂CM出演" scheme="https://hcy.asia/categories/commercial/cm/"/>
+    <category term="₂CM出演" scheme="https://test.jeantse.net/categories/commercial/cm/"/>
     
     
-    <category term="CM" scheme="https://hcy.asia/tags/CM/"/>
+    <category term="CM" scheme="https://test.jeantse.net/tags/CM/"/>
     
-    <category term="NEWS" scheme="https://hcy.asia/tags/NEWS/"/>
+    <category term="NEWS" scheme="https://test.jeantse.net/tags/NEWS/"/>
     
   </entry>
   
   <entry>
     <title>ミステリーバラエティ番組「萌え探偵（萌探探探案）S2」</title>
-    <link href="https://hcy.asia/moedetective/"/>
-    <id>https://hcy.asia/moedetective/</id>
+    <link href="https://test.jeantse.net/moedetective/"/>
+    <id>https://test.jeantse.net/moedetective/</id>
     <published>2022-05-26T16:00:00.000Z</published>
     <updated>2022-10-14T01:16:30.000Z</updated>
     
@@ -204,19 +204,19 @@
     
     
     
-    <category term="④バラエティ番組" scheme="https://hcy.asia/categories/tvshow/"/>
+    <category term="④バラエティ番組" scheme="https://test.jeantse.net/categories/tvshow/"/>
     
-    <category term="₃エンターテインメント" scheme="https://hcy.asia/categories/tvshow/entertainment/"/>
+    <category term="₃エンターテインメント" scheme="https://test.jeantse.net/categories/tvshow/entertainment/"/>
     
     
-    <category term="萌え探偵" scheme="https://hcy.asia/tags/moedetective/"/>
+    <category term="萌え探偵" scheme="https://test.jeantse.net/tags/moedetective/"/>
     
   </entry>
   
   <entry>
     <title>中国民間歌謡の音楽コンクール番組「春には花が咲く（春天花会开）」</title>
-    <link href="https://hcy.asia/springfolksong/"/>
-    <id>https://hcy.asia/springfolksong/</id>
+    <link href="https://test.jeantse.net/springfolksong/"/>
+    <id>https://test.jeantse.net/springfolksong/</id>
     <published>2022-03-10T16:00:00.000Z</published>
     <updated>2022-06-20T02:38:39.000Z</updated>
     
@@ -227,19 +227,19 @@
     
     
     
-    <category term="④バラエティ番組" scheme="https://hcy.asia/categories/tvshow/"/>
+    <category term="④バラエティ番組" scheme="https://test.jeantse.net/categories/tvshow/"/>
     
-    <category term="₂トレーナーとして" scheme="https://hcy.asia/categories/tvshow/talent/"/>
+    <category term="₂トレーナーとして" scheme="https://test.jeantse.net/categories/tvshow/talent/"/>
     
     
-    <category term="春には花が咲く" scheme="https://hcy.asia/tags/springfolksong/"/>
+    <category term="春には花が咲く" scheme="https://test.jeantse.net/tags/springfolksong/"/>
     
   </entry>
   
   <entry>
     <title>バラエティ番組「エースvsエースS7（王牌对王牌 第七季）」</title>
-    <link href="https://hcy.asia/acevsace7/"/>
-    <id>https://hcy.asia/acevsace7/</id>
+    <link href="https://test.jeantse.net/acevsace7/"/>
+    <id>https://test.jeantse.net/acevsace7/</id>
     <published>2022-02-24T16:00:00.000Z</published>
     <updated>2022-09-29T03:17:55.000Z</updated>
     
@@ -250,19 +250,19 @@
     
     
     
-    <category term="④バラエティ番組" scheme="https://hcy.asia/categories/tvshow/"/>
+    <category term="④バラエティ番組" scheme="https://test.jeantse.net/categories/tvshow/"/>
     
-    <category term="₃エンターテインメント" scheme="https://hcy.asia/categories/tvshow/entertainment/"/>
+    <category term="₃エンターテインメント" scheme="https://test.jeantse.net/categories/tvshow/entertainment/"/>
     
     
-    <category term="エースvsエース" scheme="https://hcy.asia/tags/ace/"/>
+    <category term="エースvsエース" scheme="https://test.jeantse.net/tags/ace/"/>
     
   </entry>
   
   <entry>
     <title>美食番組「百姓の味（百姓的味道）」</title>
-    <link href="https://hcy.asia/variety-ajiwithnico/"/>
-    <id>https://hcy.asia/variety-ajiwithnico/</id>
+    <link href="https://test.jeantse.net/variety-ajiwithnico/"/>
+    <id>https://test.jeantse.net/variety-ajiwithnico/</id>
     <published>2022-01-27T16:00:00.000Z</published>
     <updated>2022-02-01T13:45:38.736Z</updated>
     
@@ -273,19 +273,19 @@
     
     
     
-    <category term="④バラエティ番組" scheme="https://hcy.asia/categories/tvshow/"/>
+    <category term="④バラエティ番組" scheme="https://test.jeantse.net/categories/tvshow/"/>
     
-    <category term="₃エンターテインメント" scheme="https://hcy.asia/categories/tvshow/entertainment/"/>
+    <category term="₃エンターテインメント" scheme="https://test.jeantse.net/categories/tvshow/entertainment/"/>
     
     
-    <category term="ゲスト出演" scheme="https://hcy.asia/tags/guest/"/>
+    <category term="ゲスト出演" scheme="https://test.jeantse.net/tags/guest/"/>
     
   </entry>
   
   <entry>
     <title>冬季五輪の助力番組「冬夢の約（冬梦之约）S2」</title>
-    <link href="https://hcy.asia/variety-olympic2022ski/"/>
-    <id>https://hcy.asia/variety-olympic2022ski/</id>
+    <link href="https://test.jeantse.net/variety-olympic2022ski/"/>
+    <id>https://test.jeantse.net/variety-olympic2022ski/</id>
     <published>2022-01-20T16:00:00.000Z</published>
     <updated>2022-09-29T02:50:26.000Z</updated>
     
@@ -297,19 +297,19 @@
     
     
     
-    <category term="④バラエティ番組" scheme="https://hcy.asia/categories/tvshow/"/>
+    <category term="④バラエティ番組" scheme="https://test.jeantse.net/categories/tvshow/"/>
     
-    <category term="₃エンターテインメント" scheme="https://hcy.asia/categories/tvshow/entertainment/"/>
+    <category term="₃エンターテインメント" scheme="https://test.jeantse.net/categories/tvshow/entertainment/"/>
     
     
-    <category term="ゲスト出演" scheme="https://hcy.asia/tags/guest/"/>
+    <category term="ゲスト出演" scheme="https://test.jeantse.net/tags/guest/"/>
     
   </entry>
   
   <entry>
     <title>「火星演唱会 MARS CONCERT」一覧</title>
-    <link href="https://hcy.asia/marsconcert/"/>
-    <id>https://hcy.asia/marsconcert/</id>
+    <link href="https://test.jeantse.net/marsconcert/"/>
+    <id>https://test.jeantse.net/marsconcert/</id>
     <published>2021-12-05T16:00:00.000Z</published>
     <updated>2022-09-26T03:25:04.000Z</updated>
     
@@ -321,19 +321,19 @@
     
     
     
-    <category term="③ライブ・公演" scheme="https://hcy.asia/categories/live/"/>
+    <category term="③ライブ・公演" scheme="https://test.jeantse.net/categories/live/"/>
     
-    <category term="₁パーソナルコンサート" scheme="https://hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁パーソナルコンサート" scheme="https://test.jeantse.net/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://test.jeantse.net/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>火星演唱会 MARS CONCERT 2021</title>
-    <link href="https://hcy.asia/marsconcert2021/"/>
-    <id>https://hcy.asia/marsconcert2021/</id>
+    <link href="https://test.jeantse.net/marsconcert2021/"/>
+    <id>https://test.jeantse.net/marsconcert2021/</id>
     <published>2021-12-05T15:00:00.000Z</published>
     <updated>2022-09-27T02:37:31.000Z</updated>
     
@@ -349,19 +349,19 @@
     
     
     
-    <category term="③ライブ・公演" scheme="https://hcy.asia/categories/live/"/>
+    <category term="③ライブ・公演" scheme="https://test.jeantse.net/categories/live/"/>
     
-    <category term="₁パーソナルコンサート" scheme="https://hcy.asia/categories/live/marsconcert/"/>
+    <category term="₁パーソナルコンサート" scheme="https://test.jeantse.net/categories/live/marsconcert/"/>
     
     
-    <category term="MARS CONCERT" scheme="https://hcy.asia/tags/MARS-CONCERT/"/>
+    <category term="MARS CONCERT" scheme="https://test.jeantse.net/tags/MARS-CONCERT/"/>
     
   </entry>
   
   <entry>
     <title>ほら、一緒に日の出を見に行こう（走，一起去看日出吧）</title>
-    <link href="https://hcy.asia/05-seesunrise/"/>
-    <id>https://hcy.asia/05-seesunrise/</id>
+    <link href="https://test.jeantse.net/05-seesunrise/"/>
+    <id>https://test.jeantse.net/05-seesunrise/</id>
     <published>2021-12-05T14:00:00.000Z</published>
     <updated>2022-06-02T07:42:09.000Z</updated>
     
@@ -376,25 +376,25 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="作曲" scheme="https://hcy.asia/tags/compose/"/>
+    <category term="作曲" scheme="https://test.jeantse.net/tags/compose/"/>
     
-    <category term="歌詞和訳" scheme="https://hcy.asia/tags/lyrictranslation/"/>
+    <category term="歌詞和訳" scheme="https://test.jeantse.net/tags/lyrictranslation/"/>
     
-    <category term="アレンジャー" scheme="https://hcy.asia/tags/arrange/"/>
+    <category term="アレンジャー" scheme="https://test.jeantse.net/tags/arrange/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
-    <category term="癒し三部作" scheme="https://hcy.asia/tags/trilogy2021/"/>
+    <category term="癒し三部作" scheme="https://test.jeantse.net/tags/trilogy2021/"/>
     
   </entry>
   
   <entry>
     <title>花が舞い落ちる時の出会い（花落时相遇）</title>
-    <link href="https://hcy.asia/05-flowerdrop/"/>
-    <id>https://hcy.asia/05-flowerdrop/</id>
+    <link href="https://test.jeantse.net/05-flowerdrop/"/>
+    <id>https://test.jeantse.net/05-flowerdrop/</id>
     <published>2021-12-03T16:00:00.000Z</published>
     <updated>2022-10-04T07:09:11.241Z</updated>
     
@@ -409,27 +409,27 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="作曲" scheme="https://hcy.asia/tags/compose/"/>
+    <category term="作曲" scheme="https://test.jeantse.net/tags/compose/"/>
     
-    <category term="歌詞和訳" scheme="https://hcy.asia/tags/lyrictranslation/"/>
+    <category term="歌詞和訳" scheme="https://test.jeantse.net/tags/lyrictranslation/"/>
     
-    <category term="交響曲" scheme="https://hcy.asia/tags/symphony/"/>
+    <category term="交響曲" scheme="https://test.jeantse.net/tags/symphony/"/>
     
-    <category term="アレンジャー" scheme="https://hcy.asia/tags/arrange/"/>
+    <category term="アレンジャー" scheme="https://test.jeantse.net/tags/arrange/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
-    <category term="癒し三部作" scheme="https://hcy.asia/tags/trilogy2021/"/>
+    <category term="癒し三部作" scheme="https://test.jeantse.net/tags/trilogy2021/"/>
     
   </entry>
   
   <entry>
     <title>僕を戻ってもらいたいなぁ（好想我回来啊）</title>
-    <link href="https://hcy.asia/05-myselfback/"/>
-    <id>https://hcy.asia/05-myselfback/</id>
+    <link href="https://test.jeantse.net/05-myselfback/"/>
+    <id>https://test.jeantse.net/05-myselfback/</id>
     <published>2021-12-02T16:00:00.000Z</published>
     <updated>2022-06-02T07:42:09.000Z</updated>
     
@@ -444,25 +444,25 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="作曲" scheme="https://hcy.asia/tags/compose/"/>
+    <category term="作曲" scheme="https://test.jeantse.net/tags/compose/"/>
     
-    <category term="歌詞和訳" scheme="https://hcy.asia/tags/lyrictranslation/"/>
+    <category term="歌詞和訳" scheme="https://test.jeantse.net/tags/lyrictranslation/"/>
     
-    <category term="アレンジャー" scheme="https://hcy.asia/tags/arrange/"/>
+    <category term="アレンジャー" scheme="https://test.jeantse.net/tags/arrange/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
-    <category term="癒し三部作" scheme="https://hcy.asia/tags/trilogy2021/"/>
+    <category term="癒し三部作" scheme="https://test.jeantse.net/tags/trilogy2021/"/>
     
   </entry>
   
   <entry>
     <title>声の出演 - スマホゲーム「和平精英(Game For Peace)」PV</title>
-    <link href="https://hcy.asia/cv-gameforpeacepv/"/>
-    <id>https://hcy.asia/cv-gameforpeacepv/</id>
+    <link href="https://test.jeantse.net/cv-gameforpeacepv/"/>
+    <id>https://test.jeantse.net/cv-gameforpeacepv/</id>
     <published>2021-11-28T16:00:00.000Z</published>
     <updated>2021-12-28T13:47:21.734Z</updated>
     
@@ -473,19 +473,19 @@
     
     
     
-    <category term="⑤俳優・声優" scheme="https://hcy.asia/categories/actor/"/>
+    <category term="⑤俳優・声優" scheme="https://test.jeantse.net/categories/actor/"/>
     
     
-    <category term="CM" scheme="https://hcy.asia/tags/CM/"/>
+    <category term="CM" scheme="https://test.jeantse.net/tags/CM/"/>
     
-    <category term="声の出演" scheme="https://hcy.asia/tags/cv/"/>
+    <category term="声の出演" scheme="https://test.jeantse.net/tags/cv/"/>
     
   </entry>
   
   <entry>
     <title>黒白芸術家</title>
-    <link href="https://hcy.asia/05-antifan/"/>
-    <id>https://hcy.asia/05-antifan/</id>
+    <link href="https://test.jeantse.net/05-antifan/"/>
+    <id>https://test.jeantse.net/05-antifan/</id>
     <published>2021-11-27T16:00:00.000Z</published>
     <updated>2021-12-22T04:34:57.000Z</updated>
     
@@ -496,23 +496,23 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="作曲" scheme="https://hcy.asia/tags/compose/"/>
+    <category term="作曲" scheme="https://test.jeantse.net/tags/compose/"/>
     
-    <category term="歌詞和訳" scheme="https://hcy.asia/tags/lyrictranslation/"/>
+    <category term="歌詞和訳" scheme="https://test.jeantse.net/tags/lyrictranslation/"/>
     
-    <category term="アレンジャー" scheme="https://hcy.asia/tags/arrange/"/>
+    <category term="アレンジャー" scheme="https://test.jeantse.net/tags/arrange/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
   </entry>
   
   <entry>
     <title>小さな町の花（小镇里的花）</title>
-    <link href="https://hcy.asia/05-townflower/"/>
-    <id>https://hcy.asia/05-townflower/</id>
+    <link href="https://test.jeantse.net/05-townflower/"/>
+    <id>https://test.jeantse.net/05-townflower/</id>
     <published>2021-11-26T16:00:00.000Z</published>
     <updated>2022-06-03T09:05:30.435Z</updated>
     
@@ -523,16 +523,16 @@
     
     
     
-    <category term="②音楽作品" scheme="https://hcy.asia/categories/music/"/>
+    <category term="②音楽作品" scheme="https://test.jeantse.net/categories/music/"/>
     
     
-    <category term="作曲" scheme="https://hcy.asia/tags/compose/"/>
+    <category term="作曲" scheme="https://test.jeantse.net/tags/compose/"/>
     
-    <category term="歌詞和訳" scheme="https://hcy.asia/tags/lyrictranslation/"/>
+    <category term="歌詞和訳" scheme="https://test.jeantse.net/tags/lyrictranslation/"/>
     
-    <category term="アレンジャー" scheme="https://hcy.asia/tags/arrange/"/>
+    <category term="アレンジャー" scheme="https://test.jeantse.net/tags/arrange/"/>
     
-    <category term="アルバム5" scheme="https://hcy.asia/tags/album05/"/>
+    <category term="アルバム5" scheme="https://test.jeantse.net/tags/album05/"/>
     
   </entry>
   
