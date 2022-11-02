@@ -1590,13 +1590,6 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/CM/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/tags/album02/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1604,14 +1597,21 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/acapella/</loc>
+    <loc>https://hcy.asia/tags/featsong/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/featsong/</loc>
+    <loc>https://hcy.asia/tags/CM/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/acapella/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1716,14 +1716,14 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/guest/</loc>
+    <loc>https://hcy.asia/tags/trip/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/trip/</loc>
+    <loc>https://hcy.asia/tags/guest/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1737,14 +1737,14 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/cv/</loc>
+    <loc>https://hcy.asia/tags/NEWS/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/NEWS/</loc>
+    <loc>https://hcy.asia/tags/cv/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1765,6 +1765,13 @@
   </url>
   
   <url>
+    <loc>https://hcy.asia/tags/mrzz/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy.asia/tags/moedetective/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1772,7 +1779,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/mrzz/</loc>
+    <loc>https://hcy.asia/tags/hisong/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1787,13 +1794,6 @@
   
   <url>
     <loc>https://hcy.asia/tags/springfolksong/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/tags/hisong/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1816,13 +1816,6 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/tvshow/entertainment/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/categories/tvshow/musicshow/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1830,7 +1823,21 @@
   </url>
   
   <url>
+    <loc>https://hcy.asia/categories/tvshow/entertainment/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy.asia/categories/actor/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/categories/tvshow/trip/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1851,13 +1858,6 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/tvshow/trip/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/categories/hcy/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1865,14 +1865,14 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/live/</loc>
+    <loc>https://hcy.asia/categories/commercial/cm/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/commercial/cm/</loc>
+    <loc>https://hcy.asia/categories/live/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
