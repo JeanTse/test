@@ -1325,7 +1325,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/01-08-immortal/</loc>
+    <loc>https://hcy.asia/01-07-allalone/</loc>
     
     <lastmod>2020-06-27</lastmod>
     
@@ -1334,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/01-07-allalone/</loc>
+    <loc>https://hcy.asia/01-08-immortal/</loc>
     
     <lastmod>2020-06-27</lastmod>
     
@@ -1590,7 +1590,21 @@
   </url>
   
   <url>
+    <loc>https://hcy.asia/tags/CM/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hcy.asia/tags/album02/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/acapella/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1612,20 +1626,6 @@
   
   <url>
     <loc>https://hcy.asia/tags/Unplugged/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/tags/CM/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hcy.asia/tags/acapella/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1765,13 +1765,6 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/mrzz/</loc>
-    <lastmod>2022-11-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://hcy.asia/tags/moedetective/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -1779,7 +1772,7 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/tags/singwithme/</loc>
+    <loc>https://hcy.asia/tags/mrzz/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1787,6 +1780,13 @@
   
   <url>
     <loc>https://hcy.asia/tags/hisong/</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hcy.asia/tags/singwithme/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1865,14 +1865,14 @@
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/commercial/cm/</loc>
+    <loc>https://hcy.asia/categories/live/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hcy.asia/categories/live/</loc>
+    <loc>https://hcy.asia/categories/commercial/cm/</loc>
     <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
