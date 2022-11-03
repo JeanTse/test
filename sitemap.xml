@@ -1325,7 +1325,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/01-07-allalone/</loc>
+    <loc>https://test.jeantse.net/01-08-immortal/</loc>
     
     <lastmod>2020-06-27</lastmod>
     
@@ -1334,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/01-08-immortal/</loc>
+    <loc>https://test.jeantse.net/01-07-allalone/</loc>
     
     <lastmod>2020-06-27</lastmod>
     
@@ -1562,21 +1562,14 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/lyrictranslation/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.jeantse.net/tags/symphony/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://test.jeantse.net/tags/singer2018/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.jeantse.net/tags/lyrictranslation/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1590,7 +1583,28 @@
   </url>
   
   <url>
+    <loc>https://test.jeantse.net/tags/symphony/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.jeantse.net/tags/CM/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://test.jeantse.net/tags/album02/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.jeantse.net/tags/acapella/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1625,20 +1639,6 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/CM/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.jeantse.net/tags/acapella/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://test.jeantse.net/tags/DEMO/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1646,21 +1646,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/singer2020/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.jeantse.net/tags/trilogy2019/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.jeantse.net/tags/album04/</loc>
+    <loc>https://test.jeantse.net/tags/thenext/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1674,7 +1660,21 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/thenext/</loc>
+    <loc>https://test.jeantse.net/tags/singer2020/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.jeantse.net/tags/album04/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://test.jeantse.net/tags/trilogy2019/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1723,14 +1723,14 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/movie/</loc>
+    <loc>https://test.jeantse.net/tags/guest/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/guest/</loc>
+    <loc>https://test.jeantse.net/tags/movie/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1765,14 +1765,14 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/mrzz/</loc>
+    <loc>https://test.jeantse.net/tags/moedetective/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/tags/moedetective/</loc>
+    <loc>https://test.jeantse.net/tags/mrzz/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1816,7 +1816,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/actor/</loc>
+    <loc>https://test.jeantse.net/categories/tvshow/entertainment/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1830,14 +1830,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/tvshow/entertainment/</loc>
-    <lastmod>2022-11-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://test.jeantse.net/categories/tvshow/trip/</loc>
+    <loc>https://test.jeantse.net/categories/actor/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1851,7 +1844,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/hcy/</loc>
+    <loc>https://test.jeantse.net/categories/tvshow/trip/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1865,7 +1858,7 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/commercial/cm/</loc>
+    <loc>https://test.jeantse.net/categories/hcy/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1879,6 +1872,13 @@
   </url>
   
   <url>
+    <loc>https://test.jeantse.net/categories/commercial/cm/</loc>
+    <lastmod>2022-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://test.jeantse.net/categories/commercial/magazine/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -1886,14 +1886,14 @@
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/live/marsconcert/</loc>
+    <loc>https://test.jeantse.net/categories/live/event/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://test.jeantse.net/categories/live/event/</loc>
+    <loc>https://test.jeantse.net/categories/live/marsconcert/</loc>
     <lastmod>2022-11-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
